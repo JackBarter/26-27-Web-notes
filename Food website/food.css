@@ -1,0 +1,10 @@
+body        {background-color: rgb(255, 238, 183);}
+header {height: 100px; background-color: rgb(255, 255, 255);}
+nav {background-color: rgb(193, 241, 160); width: 100%; float: left; border-radius: 8px; margin: 5px; padding: 5px;}
+main {height: 5000px; background-color: rgb(26, 221, 221); width: 100%; float: right; border-radius: 8px; margin: 5px; padding: 5px;}
+.menu-item {display: flex; margin: 50px; gap: 30px;}
+.menu-item img {width: 300px; height: 300px; border-radius: 8px; border: 2px solid black; object-fit: cover;}
+article {height: 300px; background-color: rgb(129, 247, 174); width: 550px; border-radius: 8px; padding: 20px; border: 2px solid black; margin: 5px; float: left;}
+.bodytext {color: rgb(102, 54, 54); font-size: 10pt;}
+#shadow {box-shadow: 5px 5px 10px 2px rgba(255, 255, 255, 0.7);}
+h1 {background-color: rgba(214, 214, 214, 0.5); width: 100%; text-align: center}
